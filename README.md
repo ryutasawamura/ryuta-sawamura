@@ -1,2 +1,0 @@
-# ryuta-sawamura
-Hello! GitHub！
